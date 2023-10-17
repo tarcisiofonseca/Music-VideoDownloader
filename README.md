@@ -3,7 +3,7 @@ The most simple video or music downloader I could think of for non-technical use
 
 ## Requirements
 
-Just a Google account. The script uses Google Colab environment to download the files directly to your Google Drive, so you can use it even on smartphones without [Termux](https://termux.dev/en/) or a rooted device.
+Just a Google account. The script uses Google Colab environment to download the files directly to your Google Drive, so you can use it even on non-rooted smartphones or without [Termux](https://termux.dev/en/).
 
 ## First steps
 
