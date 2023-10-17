@@ -1,5 +1,5 @@
 # Music-VideoDownloader
-The most simple video or music downloader I could think of to non-technical users. It can download video or music from more than 1,000 websites, since it uses [youtube-dl](https://github.com/ytdl-org/youtube-dl) library to download content. The complete list of supported websites can be found [here](https://ytdl-org.github.io/youtube-dl/supportedsites.html).
+The most simple video or music downloader I could think of for non-technical users. It can download video or music from more than 1,000 websites, since it uses [youtube-dl](https://github.com/ytdl-org/youtube-dl) library to download content. The complete list of supported websites can be found [here](https://ytdl-org.github.io/youtube-dl/supportedsites.html).
 
 ## Requirements
 
