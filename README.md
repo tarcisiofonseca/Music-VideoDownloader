@@ -1,4 +1,4 @@
-# Simplest Video or Music Downloader
+# Simplest Video and Music Downloader
 As the name suggests, this is the most simple video or music downloader I could think of for non-technical users, which can also be used on smartphones. It can download video or music from more than 1,000 websites, since it uses [youtube-dl](https://github.com/ytdl-org/youtube-dl) library to download content. The complete list of supported websites can be found [here](https://ytdl-org.github.io/youtube-dl/supportedsites.html).
 
 ## Requirements
